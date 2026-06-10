@@ -29,6 +29,3 @@ Project Files
 - app.py
 - database.db
 
-
-  Author
-  Vaishnavi
